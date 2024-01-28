@@ -1,0 +1,6 @@
+{
+  "block": "minecraft:chest",
+  "properties": {
+    "type": "single"
+  }
+}
